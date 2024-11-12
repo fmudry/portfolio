@@ -1,0 +1,199 @@
+{
+    "languages": {
+        "slovak": "Szlovák",
+        "czech": "Cseh",
+        "hungarian": "Magyar",
+        "english": "Angol"
+    },
+    "main": {
+        "sign-in-btn": "Bejelentkezés",
+        "my-docs": "Dokumentumaim",
+        "description": "Ez a legjobb kollaboratív szerkesztő. Jelentkezzen be most, és próbálja ki csapatával.",
+        "collaboration": "Együttműködés",
+        "growth": "Növekedés",
+        "communication": "Kommunikáció",
+        "card1": {
+            "header": "Könnyű együttműködés",
+            "description": "Használja platformunkat a csapatával való együttműködéshez. Iskola, munka, szórakozás? Megtalálta!"
+        },
+        "card2": {
+            "header": "Gyorsabb építés",
+            "description": "Ugyanazon dokumentumon dolgozni soha nem volt egyszerűbb. Hívja meg csapattagjait, és kezdjen el dolgozni most."
+        }
+    },
+    "navbar": {
+        "privacy-policy": "Adatvédelmi irányelvek",
+        "user-guide": "Felhasználói útmutató",
+        "language-changer": "Nyelv megváltoztatása",
+        "language-changer__search-languages": "Nyelvek keresése...",
+        "logout": "Anyuci"
+    },
+    "mode": {
+        "light": "Világos",
+        "dark": "Sötét",
+        "system": "Rendszer"
+    },
+    "loading": "Betöltés",
+    "not-found": {
+        "not-found": "Nem található",
+        "go-to": "Ugrás",
+        "homepage": "Honlap"
+    },
+    "sign-in": {
+        "password": "Jelszó",
+        "submit": "Beküldés",
+        "without-acc-question": "Még nincs fiókja?",
+        "register": "Regisztráció",
+        "here": "itt",
+        "sign-in": "Bejelentkezés"
+    },
+    "register": {
+        "password": "Jelszó",
+        "confirm-password": "Jelszó megerősítése",
+        "password-criteria": "A jelszónak",
+        "password-rule1": "legalább 8 karakter hosszúnak kell lennie",
+        "submit": "Beküldés",
+        "have-acc-question": "Már van fiókja?",
+        "sign-in": "Bejelentkezés",
+        "here": "itt",
+        "register": "Regisztráció"
+    },
+    "docs-navbar": {
+        "new": "Új dokumentum",
+        "home": "Otthon",
+        "shared": "Megosztva velem",
+        "recent": "Nemrég",
+        "trash-bin": "Kuka"
+    },
+    "docs-table": {
+        "title": "Cím",
+        "updated-at": "Frissítve",
+        "deleted-at": "Törölve ekkor",
+        "owner": "Tulajdonos",
+        "tags": "Címkék",
+        "actions": "Műveletek",
+        "actions-open-menu": "Menü megnyitása",
+        "search-title": "Cím keresése...",
+        "no-results": "Nincs találat...",
+        "permissions": "Engedélyeket"
+    },
+    "docs-forms": {
+        "title": "Cím",
+        "collaborator": "Munkatárs",
+        "add-collaborator": "Munkatárs hozzáadása",
+        "tag-attributes": "Címke attribútumok",
+        "add-tag": "Címke hozzáadása",
+        "permission": "Engedély",
+        "read": "Olvasás",
+        "write": "Írás",
+        "no-color-found": "Nem található szín.",
+        "search-color": "Szín keresése...",
+        "sort-by-date": "Rendezés dátum szerint",
+        "sort-by-title": "Rendezés cím szerint",
+        "ascending": "Növekvő",
+        "descending": "Csökkenő",
+        "pick-a-date": "Dátum kiválasztása",
+        "filter-from-date": "Dátumtól",
+        "filter-to-date": "Dátumig",
+        "filter-by-tags": "Szűrés címkék szerint",
+        "filter-tags-rule": "A címkéket vesszővel kell elválasztani.",
+        "filter-tags-example": "Például: címke1, címke2, címke3"
+    },
+    "editor": {
+        "return-to-docs": "Visszatérés a dokumentumokhoz",
+        "return-to-docs-description": "Szeretné menteni a módosításokat ebben a dokumentumban?",
+        "return-without-saving": "Visszatérés mentés nélkül",
+        "save-and-return": "Mentés és visszatérés"
+    },
+    "validation": {
+        "characters-long": "karakter hosszú",
+        "password-dont-match": "A jelszavak nem egyeznek",
+        "tags-comma-separated": "A címkéket vesszővel kell elválasztani. A címke neve hossza 3 és 15 karakter között kell, hogy legyen.",
+        "invalid-email": "Érvénytelen email",
+        "number-too-small": "Az értéknek nagyobbnak kell lennie, mint",
+        "number-too-big": "Az értéknek kisebbnek kell lennie, mint"
+    },
+    "docs": {
+        "create": "Létrehozás",
+        "cancel": "Mégse",
+        "next": "Következő",
+        "previous": "Előző",
+        "save-changes": "Változtatások mentése",
+        "apply": "Alkalmaz",
+        "create-new": "Új dokumentum létrehozása",
+        "create-new-description": "Hozza létre új dokumentumát címkékkel és hívja meg az embereket, hogy dolgozzanak együtt önnel",
+        "new-doc-name-placeholder": "Új dokumentum",
+        "new-doc-email-placeholder": "joe@mama.com",
+        "no-docs-yet": "Még nem hoztak létre dokumentumokat.",
+        "my-docs": "Dokumentumaim",
+        "filter-documents": "Dokumentumok szűrése",
+        "rename": "Átnevezés",
+        "edit-tags": "Címkék szerkesztése",
+        "edit-collaborators": "Munkatársak szerkesztése",
+        "delete": "Törlés",
+        "filter": "Szűrő",
+        "sort": "Rendezés",
+        "document": "dokumentum",
+        "rename-description": "Adja meg a dokumentum új nevét",
+        "edit-tags-description": "Címkék hozzáadása vagy eltávolítása ehhez a dokumentumhoz",
+        "edit-collaborators-description": "Munkatársak hozzáadása vagy eltávolítása ehhez a dokumentumhoz",
+        "delete-description": "Biztosan törölni szeretné a dokumentumot?"
+    },
+    "privacy-policy": {
+        "privacy-policy": "Adatvédelmi irányelvek",
+        "data-usage": {
+            "title": "Hogyan használjuk az adatait?",
+            "answer": "Az adatait szolgáltatásaink nyújtására és javítására, a kommunikációra és a biztonság és megfelelés biztosítására használjuk. Az adatai segítenek megérteni, hogyan használja szolgáltatásainkat, hogy javíthassuk az élményét."
+        },
+        "commitment": {
+            "title": "Mire kötelezzük el magunkat?",
+            "answer": "Elkötelezettek vagyunk a magánélet védelme iránt, és tisztelettel kezeljük személyes adatait. Betartjuk az adatvédelmi törvényeket és biztosítjuk, hogy az információi biztonságban legyenek és csak az ebben az irányelvben meghatározott célokra használjuk őket."
+        },
+        "data-collection": {
+            "title": "Milyen adatokat gyűjtünk?",
+            "answer": "Adatokat gyűjtünk, mint például a nevét, email címét, kapcsolati adatait és használati adatokat. Ez magában foglalhatja a weboldalunkkal vagy alkalmazásunkkal való interakciókra vonatkozó információkat, IP címét és eszköz információkat."
+        },
+        "data-sharing": {
+            "title": "Megosztjuk az adatait?",
+            "answer": "Nem adjuk el személyes adatait harmadik feleknek. Az adatait megbízható partnerekkel és szolgáltatókkal oszthatjuk meg, akik segítenek szolgáltatásaink működtetésében, de csak szigorú titoktartási feltételek mellett és az ebben az irányelvben meghatározott célokra."
+        },
+        "data-protection": {
+            "title": "Hogyan védjük az adatait?",
+            "answer": "Különféle biztonsági intézkedéseket vezetünk be személyes információinak védelme érdekében. Ez magában foglalja a titkosítást, biztonságos szervereket és rendszeres biztonsági auditokat, hogy megakadályozzuk az illetéktelen hozzáférést, közzétételt, módosítást vagy megsemmisítést."
+        },
+        "your-rights": {
+            "title": "Milyen jogai vannak az adataival kapcsolatban?",
+            "answer": "Önnek joga van hozzáférni, helyesbíteni vagy törölni személyes adatait. Ezenkívül tiltakozhat vagy korlátozhat bizonyos adatkezeléseket. Ha ezen jogokat gyakorolni szeretné, lépjen velünk kapcsolatba az irányelvben megadott információk felhasználásával."
+        },
+        "contact-information": {
+            "title": "Hogyan léphet velünk kapcsolatba?",
+            "answer": "Ha bármilyen kérdése vagy aggálya van adatvédelmi irányelveinkkel vagy az Önnel kapcsolatos adatainkkal kapcsolatban, lépjen velünk kapcsolatba a privacy@synchrodoc.com címen."
+        },
+        "policy-updates": {
+            "title": "Hogyan értesül a politika változásairól?",
+            "answer": "Ezt az adatvédelmi irányelvet időről időre frissíthetjük. Az esetleges jelentős változásokról értesítjük Önt az új irányelv közzétételével a weboldalunkon és, ahol megfelelő, emailben történő értesítéssel."
+        }
+    },
+    "faq": {
+        "data-secure": {
+            "question": "Biztonságban vannak az adataim a kollaboratív szerkesztő használata során?",
+            "answer": "Igen. Az adatai védelme érdekében valós idejű együttműködés során fejlett titkosítást és biztonságos szervereket használunk. Biztonsági intézkedéseink biztosítják, hogy az információi biztonságban és bizalmasan maradjanak."
+        },
+        "access-shared": {
+            "question": "Ki férhet hozzá a megosztott dokumentumaimhoz?",
+            "answer": "Csak azok a személyek férhetnek hozzá a dokumentumaihoz, akikkel kifejezetten megosztotta azokat. Kezelheti az engedélyeket, hogy meghatározza, ki tekintheti meg vagy szerkesztheti a megosztott dokumentumait."
+        },
+        "resolve-edit": {
+            "question": "Hogyan kezelem a konfliktusokat, amikor több ember szerkeszti ugyanazt a dokumentumot?",
+            "answer": "Valós idejű kollaboratív szerkesztőnk úgy lett kialakítva, hogy zökkenőmentesen kezelje az egyidejű szerkesztéseket. Ritka esetben, ha konfliktusos módosítások történnek, értesítjük, és Ön dönthet, melyik verziót tartja meg."
+        },
+        "support": {
+            "question": "Hogyan léphetek kapcsolatba a támogatással a kollaborációs funkciókkal kapcsolatos problémák esetén?",
+            "answer": "Ha bármilyen problémába ütközik vagy kérdése van kollaborációs funkcióinkkal kapcsolatban, lépjen kapcsolatba támogatói csapatunkkal a support@example.com címen. Itt vagyunk, hogy segítsünk."
+        },
+        "notify-changes": {
+            "question": "A munkatársaim értesítést kapnak a dokumentum módosításairól?",
+            "answer": "Nos... igen. De valójában nem! ;)"
+        }
+    }
+}

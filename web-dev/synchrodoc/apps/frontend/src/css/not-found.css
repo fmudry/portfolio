@@ -1,0 +1,22 @@
+.not-found-page {
+    justify-content: center;
+    align-items: center;
+}
+
+.content__image {
+    width: 6rem;
+    padding-bottom: var(--padding-mxl);
+}
+
+.content__header {
+    font-size: var(--text-xxl);
+    padding-bottom: var(--padding-md);
+}
+
+.content__link-back {
+    font-size: var(--text-xl);
+}
+
+.loading-picture--margined {
+    margin-bottom: var(--padding-mxl);
+}

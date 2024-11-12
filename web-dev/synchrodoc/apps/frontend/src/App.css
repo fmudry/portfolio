@@ -1,0 +1,14 @@
+#root {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.fixed-height {
+    height: calc(100% - var(--navbar-height));
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    height: 100%;
+}

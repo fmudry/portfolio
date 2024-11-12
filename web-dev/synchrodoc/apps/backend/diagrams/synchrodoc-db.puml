@@ -1,0 +1,59 @@
+@startuml SynchroDoc
+skinparam Linetype ortho
+hide circle
+
+entity User {
+  * id: <<uuid>>
+  ---
+  * password: string
+  * email: string
+  * name: string
+  * created_at: datetime
+  deleted_at: datetime
+  updated_at: datetime
+}
+
+entity Document {
+  * id: <<uuid>>
+  ---
+  * title: string
+  * owner_id: <<uuid>>
+  * created_at: datetime
+  automergeUrl: url
+  deleted_at: datetime
+  updated_at: datetime
+}
+
+entity Shared_Document {
+  * id: <<uuid>>
+  ---
+  * user_id: <<uuid>>
+  * document_id: <<uuid>>
+  * permissions: enum
+}
+
+entity Tag {
+  * id: <<uuid>>
+  ---
+  * name: string
+  * color: string
+  * owner_id: <<uuid>>
+}
+
+entity User_Document_Tag {
+  * id: <<uuid>>
+  ---
+  * user_id: <<uuid>>
+  * document_id: <<uuid>>
+  * tag_id: <<uuid>>
+}
+
+User ||--o{ Document
+User ||--o{ Shared_Document
+Document ||--o{ Shared_Document
+
+User ||--o{ Tag
+User ||--o{ User_Document_Tag
+Document ||--o{ User_Document_Tag
+Tag ||--o{ User_Document_Tag
+@enduml

@@ -1,0 +1,48 @@
+openapi: 3.1.0
+info:
+    title: SynchroDoc Backend API
+    description: SynchroDoc REST API for working with documents.
+    version: 1.0.0
+
+servers:
+    - url: http://localhost:6001
+
+tags:
+    - name: documents, tags, auth
+      description: Enpoints for working with documents, tags and user authentication.
+
+components:
+    schemas:
+        Pagination:
+            type: object
+            properties:
+                items:
+                    type: number
+                lastId:
+                    type: string
+        Login:
+            type: object
+            properties:
+                email:
+                    type: string
+                password:
+                    type: string
+                    minLength: 8
+            required:
+                - email
+                - password
+        Register:
+            type: object
+            properties:
+                email:
+                    type: string
+                password:
+                    type: string
+                    minLength: 8
+                confirmPassword:
+                    type: string
+                    minLength: 8
+            required:
+                - email
+                - password
+                - confirmPassword

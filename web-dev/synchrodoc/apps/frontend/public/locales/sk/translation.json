@@ -1,0 +1,199 @@
+{
+    "languages": {
+        "slovak": "Slovensky",
+        "czech": "Česky",
+        "hungarian": "Maďarsky",
+        "english": "Anglicky"
+    },
+    "main": {
+        "sign-in-btn": "Prihlásiť sa",
+        "my-docs": "Moje dokumenty",
+        "description": "Toto je najlepší kolaboratívny editor. Prihláste sa teraz a vyskúšajte ho so svojím tímom.",
+        "collaboration": "Spolupráca",
+        "growth": "Rast",
+        "communication": "Komunikácia",
+        "card1": {
+            "header": "Jednoduchá spolupráca",
+            "description": "Použite našu platformu na spoluprácu so svojím tímom. Škola, práca, zábava? Našli ste to!"
+        },
+        "card2": {
+            "header": "Rýchlejšie vytváranie",
+            "description": "Práca na rovnakom dokumente nebola nikdy ľahšia. Pozvite členov tímu a začnite pracovať hneď teraz."
+        }
+    },
+    "navbar": {
+        "privacy-policy": "Zásady ochrany osobných údajov",
+        "user-guide": "Užívateľská príručka",
+        "language-changer": "Zmeniť jazyk",
+        "language-changer__search-languages": "Hľadať jazyky...",
+        "logout": "Odhlásiť sa"
+    },
+    "mode": {
+        "light": "Svetlý",
+        "dark": "Tmavý",
+        "system": "Systém"
+    },
+    "loading": "Načítava sa",
+    "not-found": {
+        "not-found": "Nenájdené",
+        "go-to": "Prejsť na",
+        "homepage": "Hlavná stránka"
+    },
+    "sign-in": {
+        "password": "Heslo",
+        "submit": "Odoslať",
+        "without-acc-question": "Nemáte ešte účet?",
+        "register": "Registrovať sa",
+        "here": "tu",
+        "sign-in": "Prihlásiť sa"
+    },
+    "register": {
+        "password": "Heslo",
+        "confirm-password": "Potvrdiť heslo",
+        "password-criteria": "Heslo by malo",
+        "password-rule1": "minimálne 8 znakov",
+        "submit": "Odoslať",
+        "have-acc-question": "Už máte účet?",
+        "sign-in": "Prihlásiť sa",
+        "here": "tu",
+        "register": "Registrovať sa"
+    },
+    "docs-navbar": {
+        "new": "Nový dokument",
+        "home": "Domov",
+        "shared": "Zdieľané so mnou",
+        "recent": "Nedávne",
+        "trash-bin": "Kôš"
+    },
+    "docs-table": {
+        "title": "Názov",
+        "updated-at": "Aktualizované",
+        "deleted-at": "Zmazané",
+        "owner": "Vlastník",
+        "tags": "Štítky",
+        "actions": "Akcie",
+        "actions-open-menu": "Otvoriť menu",
+        "search-title": "Hľadať názov...",
+        "no-results": "Žiadne výsledky...",
+        "permissions": "Prístupové práva"
+    },
+    "docs-forms": {
+        "title": "Názov",
+        "collaborator": "Spolupracovník",
+        "add-collaborator": "Pridať spolupracovníka",
+        "tag-attributes": "Atribúty štítkov",
+        "add-tag": "Pridať štítok",
+        "permission": "Povolenie",
+        "read": "Čítať",
+        "write": "Písať",
+        "no-color-found": "Nebola nájdená žiadna farba.",
+        "search-color": "Hľadať farbu...",
+        "sort-by-date": "Triediť podľa dátumu",
+        "sort-by-title": "Triediť podľa názvu",
+        "ascending": "Vzostupne",
+        "descending": "Zostupne",
+        "pick-a-date": "Vybrať dátum",
+        "filter-from-date": "Od dátumu",
+        "filter-to-date": "Do dátumu",
+        "filter-by-tags": "Filtrovať podľa štítkov",
+        "filter-tags-rule": "Štítky by mali byť oddelené čiarkami.",
+        "filter-tags-example": "Napríklad: štítok1, štítok2, štítok3"
+    },
+    "editor": {
+        "return-to-docs": "Vrátiť sa k dokumentom",
+        "return-to-docs-description": "Chcete uložiť zmeny v tomto dokumente?",
+        "return-without-saving": "Vrátiť sa bez uloženia",
+        "save-and-return": "Uložiť a vrátiť sa"
+    },
+    "validation": {
+        "characters-long": "znakov dlhé",
+        "password-dont-match": "Heslá sa nezhodujú",
+        "tags-comma-separated": "Štítky by mali byť oddelené čiarkami. Dĺžka názvu štítku by mala byť medzi 3 a 15.",
+        "invalid-email": "Neplatný email",
+        "number-too-small": "Hodnota by mala byť väčšia než",
+        "number-too-big": "Hodnota by mala byť menšia než"
+    },
+    "docs": {
+        "create": "Vytvoriť",
+        "cancel": "Zrušiť",
+        "next": "Ďalej",
+        "previous": "Späť",
+        "save-changes": "Uložiť zmeny",
+        "apply": "Použiť",
+        "create-new": "Vytvoriť nový dokument",
+        "create-new-description": "Vytvorte nový dokument so štítkami a pozvite ľudí na spoluprácu",
+        "new-doc-name-placeholder": "Nový dokument",
+        "new-doc-email-placeholder": "jozo@mama.com",
+        "no-docs-yet": "Zatiaľ neboli vytvorené žiadne dokumenty.",
+        "my-docs": "Moje dokumenty",
+        "filter-documents": "Filtrovať dokumenty",
+        "rename": "Premenovať",
+        "edit-tags": "Upraviť štítky",
+        "edit-collaborators": "Upraviť spolupracovníkov",
+        "delete": "Vymazať",
+        "filter": "Filter",
+        "sort": "Triediť",
+        "document": "dokument",
+        "rename-description": "Zadajte nový názov dokumentu",
+        "edit-tags-description": "Pridajte alebo vymažte štítky spojené s týmto dokumentom",
+        "edit-collaborators-description": "Pridajte alebo vymažte spolupracovníkov spojených s týmto dokumentom",
+        "delete-description": "Ste si úplne istí, že chcete vymazať tento dokument?"
+    },
+    "privacy-policy": {
+        "privacy-policy": "Zásady ochrany osobných údajov",
+        "data-usage": {
+            "title": "Ako používame vaše údaje?",
+            "answer": "Vaše údaje používame na poskytovanie a zlepšovanie našich služieb, komunikáciu s vami a zabezpečenie bezpečnosti a dodržiavania predpisov. Vaše údaje nám pomáhajú pochopiť, ako používate naše služby, aby sme mohli zlepšiť váš zážitok."
+        },
+        "commitment": {
+            "title": "Čo sľubujeme?",
+            "answer": "Zaväzujeme sa chrániť vaše súkromie a zaobchádzať s vašimi osobnými údajmi s opatrnosťou a úctou. Dodržiavame platné zákony o ochrane údajov a zabezpečujeme, aby boli vaše informácie bezpečné a používané len na účely uvedené v tejto politike."
+        },
+        "data-collection": {
+            "title": "Aké údaje zhromažďujeme?",
+            "answer": "Zhromažďujeme údaje, ako sú vaše meno, emailová adresa, kontaktné údaje a údaje o používaní. To môže zahŕňať informácie o tom, ako interagujete s našou webovou stránkou alebo aplikáciou, vašu IP adresu a informácie o zariadení."
+        },
+        "data-sharing": {
+            "title": "Zdieľame vaše údaje?",
+            "answer": "Vaše osobné údaje nepredávame tretím stranám. Vaše údaje môžeme zdieľať s dôveryhodnými partnermi a poskytovateľmi služieb, ktorí nám pomáhajú prevádzkovať naše služby, ale iba za prísnych dôverných podmienok a na účely uvedené v tejto politike."
+        },
+        "data-protection": {
+            "title": "Ako chránime vaše údaje?",
+            "answer": "Implementujeme rôzne bezpečnostné opatrenia na ochranu vašich osobných informácií. To zahŕňa šifrovanie, bezpečné servery a pravidelné bezpečnostné audity, aby sme zabránili neoprávnenému prístupu, zverejneniu, zmene alebo zničeniu vašich údajov."
+        },
+        "your-rights": {
+            "title": "Aké sú vaše práva týkajúce sa vašich údajov?",
+            "answer": "Máte právo na prístup, opravu alebo vymazanie vašich osobných údajov. Môžete tiež namietať alebo obmedziť určité spracovanie vašich údajov. Ak chcete tieto práva uplatniť, kontaktujte nás prostredníctvom informácií uvedených v tejto politike."
+        },
+        "contact-information": {
+            "title": "Ako nás môžete kontaktovať?",
+            "answer": "Ak máte akékoľvek otázky alebo obavy týkajúce sa našich zásad ochrany osobných údajov alebo údajov, ktoré o vás máme, kontaktujte nás na adrese privacy@synchrodoc.com."
+        },
+        "policy-updates": {
+            "title": "Ako sa dozviete o zmenách tejto politiky?",
+            "answer": "Tieto zásady ochrany osobných údajov môžeme z času na čas aktualizovať. O akýchkoľvek významných zmenách vás budeme informovať zverejnením novej politiky na našej webovej stránke a, kde je to vhodné, informovaním vás emailom."
+        }
+    },
+    "faq": {
+        "data-secure": {
+            "question": "Sú moje údaje bezpečné pri používaní kolaboratívneho editora?",
+            "answer": "Áno. Na ochranu vašich údajov počas spolupráce v reálnom čase používame pokročilé šifrovanie a bezpečné servery. Naše bezpečnostné opatrenia zabezpečujú, že vaše informácie zostanú bezpečné a dôverné."
+        },
+        "access-shared": {
+            "question": "Kto môže pristupovať k mojim zdieľaným dokumentom?",
+            "answer": "Prístup k vašim dokumentom majú len osoby, s ktorými ich výslovne zdieľate. Môžete spravovať povolenia, aby ste určili, kto môže zobraziť alebo upraviť vaše zdieľané dokumenty."
+        },
+        "resolve-edit": {
+            "question": "Ako riešim konflikty, keď viacerí ľudia upravujú ten istý dokument?",
+            "answer": "Náš kolaboratívny editor v reálnom čase je navrhnutý tak, aby zvládol súčasné úpravy hladko. V zriedkavom prípade konfliktných zmien budete informovaní a môžete si vybrať, ktorú verziu si ponecháte."
+        },
+        "support": {
+            "question": "Ako môžem kontaktovať podporu pri problémoch s funkciami spolupráce?",
+            "answer": "Ak narazíte na akékoľvek problémy alebo máte otázky týkajúce sa našich funkcií spolupráce, kontaktujte náš tím podpory na adrese support@example.com. Sme tu, aby sme vám pomohli."
+        },
+        "notify-changes": {
+            "question": "Budú moji spolupracovníci informovaní o zmenách v dokumente?",
+            "answer": "No... áno. Ale vlastne nie! ;)"
+        }
+    }
+}

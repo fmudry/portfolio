@@ -1,0 +1,14 @@
+#editor {
+  padding: 1rem;
+  margin: 0 auto 1rem;
+  width: 100%;
+  max-width: 800px;
+  flex: 1;
+  background-color: #f8f9fa;
+  color: #333;
+  text-align: left;
+}
+
+.ProseMirror-menubar {
+  margin-bottom: 1rem;
+}

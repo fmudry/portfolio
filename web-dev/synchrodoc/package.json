@@ -1,0 +1,31 @@
+{
+    "name": "synchrodoc",
+    "version": "1.0.0",
+    "description": "realtime collaborative markdown editor",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Ján Kapko",
+        "email": "536648@mail.muni.cz"
+    },
+    "contributors": [
+        {
+            "name": "Zdeněk Vychodil",
+            "email": "zirkon@mail.muni.cz"
+        }
+    ],
+    "license": "ISC",
+    "workspaces": [
+        "packages/*",
+        "apps/*"
+    ],
+    "dependencies": {
+        "turbo": "^1.13.2"
+    },
+    "devDependencies": {
+        "types": "^1.0.0",
+        "typescript": "^5.4.5"
+    }
+}

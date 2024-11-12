@@ -1,0 +1,41 @@
+.privacy-policy-page {
+    align-items: start;
+    text-align: left;
+    flex-direction: row;
+}
+
+.content {
+    word-wrap: break-word;
+    width: 100%;
+    padding: 0 var(--padding-md) 0 var(--padding-md);
+}
+
+.policy-title {
+    font-size: var(--text-xxl);
+    font-weight: 600;
+    padding: var(--padding-lg) 0 var(--padding-lg) 0;
+}
+
+.content__heading {
+    font-size: var(--text-xl);
+    font-weight: 600;
+    padding: var(--padding-md) 0 var(--padding-sm) 0;
+}
+
+.content__paragraph {
+    padding-bottom: var(--padding-md);
+}
+
+.content__paragraph--last {
+    padding-bottom: var(--padding-mxl);
+}
+
+@media screen and (min-width: 768px) {
+    .privacy-policy-page {
+        justify-content: center;
+    }
+
+    .content {
+        max-width: 60%;
+    }
+}

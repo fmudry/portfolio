@@ -1,0 +1,199 @@
+{
+    "languages": {
+        "slovak": "Slovak",
+        "czech": "Czech",
+        "hungarian": "Hungarian",
+        "english": "English"
+    },
+    "main": {
+        "sign-in-btn": "Sign In",
+        "my-docs": "My docs",
+        "description": "This is the best collaborative editor. Sign In now and try it with your team.",
+        "collaboration": "Collaboration",
+        "growth": "Growth",
+        "communication": "Communication",
+        "card1": {
+            "header": "Collaborate easily",
+            "description": "Use our platform to collaborate with your team. School, work, fun? Found it!"
+        },
+        "card2": {
+            "header": "Build faster",
+            "description": "Working on the same document was never easier. Invite team members and start working now."
+        }
+    },
+    "navbar": {
+        "privacy-policy": "Privacy Policy",
+        "user-guide": "User Guide",
+        "language-changer": "Change Language",
+        "language-changer__search-languages": "Search languages...",
+        "logout": "Log out"
+    },
+    "mode": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "loading": "Loading",
+    "not-found": {
+        "not-found": "Not Found",
+        "go-to": "Go to",
+        "homepage": "Homepage"
+    },
+    "sign-in": {
+        "password": "Password",
+        "submit": "Submit",
+        "without-acc-question": "Don't have account yet?",
+        "register": "Register",
+        "here": "here",
+        "sign-in": "Sign In"
+    },
+    "register": {
+        "password": "Password",
+        "confirm-password": "Confirm Password",
+        "password-criteria": "Password should",
+        "password-rule1": "at least 8 characters long",
+        "submit": "Submit",
+        "have-acc-question": "Already have an account?",
+        "sign-in": "Sign In",
+        "here": "here",
+        "register": "Register"
+    },
+    "docs-navbar": {
+        "new": "New Document",
+        "home": "Home",
+        "shared": "Shared with me",
+        "recent": "Recent",
+        "trash-bin": "Bin"
+    },
+    "docs-table": {
+        "title": "Title",
+        "updated-at": "Updated At",
+        "deleted-at": "Deleted At",
+        "owner": "Owner",
+        "tags": "Tags",
+        "actions": "Actions",
+        "actions-open-menu": "Open menu",
+        "search-title": "Search title...",
+        "no-results": "No results...",
+        "permissions": "Permissions"
+    },
+    "docs-forms": {
+        "title": "Title",
+        "collaborator": "Collaborator",
+        "add-collaborator": "Add collaborator",
+        "tag-attributes": "Tag attributes",
+        "add-tag": "Add tag",
+        "permission": "Permission",
+        "read": "Read",
+        "write": "Write",
+        "no-color-found": "No color found.",
+        "search-color": "Search color...",
+        "sort-by-date": "Sort by date",
+        "sort-by-title": "Sort by title",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "pick-a-date": "Pick a date",
+        "filter-from-date": "From date",
+        "filter-to-date": "To date",
+        "filter-by-tags": "Filter by tags",
+        "filter-tags-rule": "Tags should be comma separated.",
+        "filter-tags-example": "For example: tag1, tag2, tag3"
+    },
+    "editor": {
+        "return-to-docs": "Return to docs",
+        "return-to-docs-description": "Do you want to save changes in this document?",
+        "return-without-saving": "Return without saving",
+        "save-and-return": "Save and return"
+    },
+    "validation": {
+        "characters-long": "characters long",
+        "password-dont-match": "Passwords don't match",
+        "tags-comma-separated": "Tags should be comma separated. Tag name length should be between 3 and 15.",
+        "invalid-email": "Invalid email",
+        "number-too-small": "Value should be more than",
+        "number-too-big": "Value should be less than"
+    },
+    "docs": {
+        "create": "Create",
+        "cancel": "Cancel",
+        "next": "Next",
+        "previous": "Previous",
+        "save-changes": "Save changes",
+        "apply": "Apply",
+        "create-new": "Create a new document",
+        "create-new-description": "Create your new document with tags and invite people to work on it with you",
+        "new-doc-name-placeholder": "New Document",
+        "new-doc-email-placeholder": "joe@mama.com",
+        "no-docs-yet": "No documents have been created so far.",
+        "my-docs": "My docs",
+        "filter-documents": "Filter documents",
+        "rename": "Rename",
+        "edit-tags": "Edit tags",
+        "edit-collaborators": "Edit collaborators",
+        "delete": "Delete",
+        "filter": "Filter",
+        "sort": "Sort",
+        "document": "document",
+        "rename-description": "Enter the new name of the document",
+        "edit-tags-description": "Add or delete tags associated with this document",
+        "edit-collaborators-description": "Add or delete collaborators associated with this document",
+        "delete-description": "Are you totally sure you want to delete the document?"
+    },
+    "privacy-policy": {
+        "privacy-policy": "Privacy Policy",
+        "data-usage": {
+            "title": "How do we use your data?",
+            "answer": "We use your data to provide and improve our services, communicate with you, and ensure security and compliance. Your data helps us understand how you use our services so we can enhance your experience."
+        },
+        "commitment": {
+            "title": "What do you commit to?",
+            "answer": "We commit to protecting your privacy and handling your personal data with care and respect. We adhere to applicable data protection laws and ensure that your information is secure and used only for the purposes stated in this policy."
+        },
+        "data-collection": {
+            "title": "What data do we collect?",
+            "answer": "We collect data such as your name, email address, contact details, and usage data. This may include information about how you interact with our website or app, your IP address, and device information."
+        },
+        "data-sharing": {
+            "title": "Do we share your data?",
+            "answer": "We do not sell your personal data to third parties. We may share your data with trusted partners and service providers who help us operate our services, but only under strict confidentiality agreements and for the purposes outlined in this policy."
+        },
+        "data-protection": {
+            "title": "How do we protect your data?",
+            "answer": "We implement a variety of security measures to maintain the safety of your personal information. This includes encryption, secure servers, and regular security audits to prevent unauthorized access, disclosure, alteration, or destruction of your data."
+        },
+        "your-rights": {
+            "title": "What are your rights regarding your data?",
+            "answer": "You have the right to access, correct, or delete your personal data. You can also object to or restrict certain processing of your data. To exercise these rights, please contact us using the information provided in this policy."
+        },
+        "contact-information": {
+            "title": "How can you contact us?",
+            "answer": "If you have any questions or concerns about our privacy policy or the data we hold about you, please contact us at privacy@synchrodoc.com."
+        },
+        "policy-updates": {
+            "title": "How will you know about changes to this policy?",
+            "answer": "We may update this privacy policy from time to time. We will notify you of any significant changes by posting the new policy on our website and, where appropriate, informing you via email."
+        }
+    },
+    "faq": {
+        "data-secure": {
+            "question": "Is my data secure while using the collaborative editor?",
+            "answer": "Yes. We use advanced encryption and secure servers to protect your data during real-time collaboration. Our security measures ensure that your information remains safe and confidential."
+        },
+        "access-shared": {
+            "question": "Who can access my shared documents?",
+            "answer": "Only the individuals you explicitly share your documents with can access them. You can manage permissions to control who can view or edit your shared documents."
+        },
+        "resolve-edit": {
+            "question": "How do I resolve conflicts when multiple people edit the same document?",
+            "answer": "Our real-time collaborative editor is designed to handle simultaneous edits smoothly. In the rare case of conflicting changes, you will be notified and can choose which version to keep."
+        },
+        "support": {
+            "question": "How can I contact support for issues with collaboration features?",
+            "answer": "If you encounter any issues or have questions about our collaboration features, please contact our support team at support@example.com. We are here to assist you."
+        },
+        "notify-changes": {
+            "question": "Will my collaborators be notified of changes to the document?",
+            "answer": "Well... yes. But actually no! ;)"
+        }
+    }
+}

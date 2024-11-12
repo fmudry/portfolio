@@ -1,0 +1,28 @@
+.docspage__navbar {
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+    order: 1;
+    width: 100%;
+}
+
+.docspage__table {
+    width: 100%;
+    order: 0;
+    overflow-y: auto;
+    padding-bottom: 80px;
+    margin-bottom: -80px;
+}
+
+@media screen and (min-width: 768px) {
+    .docspage {
+        flex-direction: row;
+        overflow-y: hidden;
+    }
+
+    .docspage__navbar {
+        position: initial;
+        order: 0;
+        width: min-content;
+    }
+}

@@ -1,0 +1,14 @@
+.table-header {
+  text-align: left;
+  font-weight: 600;
+}
+
+.table-header__disappearing { 
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .table-header__disappearing { 
+    display: initial;
+  }
+}

@@ -1,0 +1,33 @@
+.sign-in-page {
+    justify-content: center;
+    align-items: center;
+}
+
+.page-content {
+    display: flex;
+    flex-direction: column;
+    row-gap: var(--gap-sm);
+}
+
+.content__separator {
+    margin-top: var(--margin-lg);
+    width: 80%;
+    display: flex;
+    align-self: center;
+}
+
+.content__title {
+    align-self: flex-start;
+    font-size: var(--text-xxl);
+    font-weight: 600;
+    padding-left: var(--padding-md);
+}
+
+.register-link {
+    color: var(--link-primary);
+    font-weight: 800;
+}
+
+.register__text {
+    font-weight: 600;
+}

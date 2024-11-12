@@ -1,0 +1,20 @@
+.tags-cell {
+    display: flex;
+    gap: var(--gap-sm);
+}
+
+.tags-hover-content {
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-sm);
+}
+
+.tags-hover-trigger {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .tags-hover-trigger {
+        display: initial;
+    }
+}
